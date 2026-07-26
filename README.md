@@ -135,4 +135,4 @@ via GitHub Action on a daily cron committing the refreshed model artifact.
 
 ---
 
-Built with agent assistance; architecture, review, and decisions mine. — Alpha Nyarera
+
