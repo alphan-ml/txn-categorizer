@@ -1,6 +1,9 @@
 # txn-categorizer
 
-Transaction categorization service with a **fast-path classifier and LLM fallback that trains its own replacement**.
+An **ML + LLM** transaction categorization service: a sub-2ms ML fast path
+(TF-IDF char n-grams + logistic regression) backed by an **LLM fallback
+(Claude Haiku) that trains its own replacement** — every fallback answer
+becomes training data, so the cheap path absorbs the expensive one.
 
 **Live demo:** not deployed yet — this repo is source only. Run it locally in
 about a minute with the commands below; no API key needed.
