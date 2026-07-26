@@ -1,0 +1,50 @@
+{"description": "WHOLE FOODS MKT #123 AUSTIN TX", "label": "groceries"}
+{"description": "TRADER JOE'S #552", "label": "groceries"}
+{"description": "KROGER #0441 FUEL CTR", "label": "groceries"}
+{"description": "SAFEWAY STORE 1746", "label": "groceries"}
+{"description": "ALDI 70012", "label": "groceries"}
+{"description": "H-E-B ONLINE GROCERY", "label": "groceries"}
+{"description": "DOORDASH*CHIPOTLE", "label": "dining"}
+{"description": "GRUBHUBSEAMLESSNYC", "label": "dining"}
+{"description": "SQ *BLUE BOTTLE COFFEE", "label": "dining"}
+{"description": "STARBUCKS 800-782-7282", "label": "dining"}
+{"description": "TST* THE HALAL GUYS", "label": "dining"}
+{"description": "MCDONALD'S F32105", "label": "dining"}
+{"description": "UBER *TRIP HELP.UBER.COM", "label": "transport"}
+{"description": "LYFT *RIDE THU 9PM", "label": "transport"}
+{"description": "SHELL OIL 57442799800", "label": "transport"}
+{"description": "CHEVRON 0207887", "label": "transport"}
+{"description": "MTA*NYCT PAYGO", "label": "transport"}
+{"description": "PARKMOBILE*ZONE 4471", "label": "transport"}
+{"description": "NETFLIX.COM 866-579-7172", "label": "subscriptions"}
+{"description": "SPOTIFY USA", "label": "subscriptions"}
+{"description": "HULU 877-8244858 CA", "label": "subscriptions"}
+{"description": "ANTHROPIC CLAUDE.AI SUB", "label": "subscriptions"}
+{"description": "APPLE.COM/BILL", "label": "subscriptions"}
+{"description": "GITHUB INC", "label": "subscriptions"}
+{"description": "COMCAST CABLE COMM", "label": "utilities"}
+{"description": "VERIZON WRLS P544", "label": "utilities"}
+{"description": "CITY OF AUSTIN UTIL", "label": "utilities"}
+{"description": "T-MOBILE*AUTO PAY", "label": "utilities"}
+{"description": "AMZN Mktp US*2K4TT09", "label": "shopping"}
+{"description": "AMAZON.COM*RT455", "label": "shopping"}
+{"description": "TARGET 00021212 AUSTIN", "label": "shopping"}
+{"description": "WAL-MART #2637", "label": "shopping"}
+{"description": "BEST BUY 00003241", "label": "shopping"}
+{"description": "NIKE.COM", "label": "shopping"}
+{"description": "DELTA AIR 0062341", "label": "travel"}
+{"description": "UNITED 01624567", "label": "travel"}
+{"description": "AIRBNB * HM4TXQ", "label": "travel"}
+{"description": "MARRIOTT DOWNTOWN ATL", "label": "travel"}
+{"description": "EXPEDIA 7243356", "label": "travel"}
+{"description": "CVS/PHARMACY #04421", "label": "health"}
+{"description": "WALGREENS #5443", "label": "health"}
+{"description": "ONE MEDICAL GROUP", "label": "health"}
+{"description": "AMC ONLINE 8887262", "label": "entertainment"}
+{"description": "STEAMGAMES.COM 4259522985", "label": "entertainment"}
+{"description": "TICKETMASTER EVENT", "label": "entertainment"}
+{"description": "DIRECT DEP PAYROLL ACME", "label": "income"}
+{"description": "STRIPE TRANSFER ST-K4L2", "label": "income"}
+{"description": "ZELLE PAYMENT FROM JOHN", "label": "transfer"}
+{"description": "VENMO PAYMENT", "label": "transfer"}
+{"description": "ONLINE TRANSFER TO SAV", "label": "transfer"}
